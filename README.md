@@ -1,5 +1,5 @@
 # 100daysofAlgorithms
-### 100 days of algorithms  This repository contains notebooks with live code to accompany [100 days of algorithms]
+### 100 days of algorithms  This repository contains python code to accompany [100 days of algorithms]
 
 I set the challenge for myself to implement algorithm by algorithm, day by day, until the number reaches **100**.
 
